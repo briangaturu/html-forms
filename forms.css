@@ -10,3 +10,7 @@ label{
     margin-top: 10px;
     font-style:bold;
 }
+div{
+    height:fit-content;
+    width:50;
+    background:#00ffff
