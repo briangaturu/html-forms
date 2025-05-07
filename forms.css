@@ -1,0 +1,12 @@
+body{
+    background-color: #96c0e4;
+    text-align: center;
+}
+label{
+    font-size: 20px;
+    color: #1e14ac;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10px;
+    font-style:bold;
+}
