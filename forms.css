@@ -1,6 +1,7 @@
 body{
     background-color: #96c0e4;
     text-align: center;
+    border: #1e14ac;
 }
 label{
     font-size: 20px;
@@ -9,4 +10,8 @@ label{
     text-align: center;
     margin-top: 10px;
     font-style:bold;
+}
+p{
+    color: ;
+    font;
 }
